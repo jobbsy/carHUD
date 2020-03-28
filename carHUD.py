@@ -8,3 +8,5 @@ response  = connection.query(c)
 print(response.value)
 
 connection.close()
+
+#im super gay
